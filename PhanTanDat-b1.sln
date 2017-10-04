@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanTanDat-b1", "PhanTanDat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanTanDat-b2", "PhanTanDat-b2\PhanTanDat-b2.csproj", "{55A26E7D-5CFC-4060-95D9-13E172FE9A64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanTanDat-b3", "PhanTanDat-b3\PhanTanDat-b3.csproj", "{09798D50-4AC8-40FF-A9BA-614089D99566}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{55A26E7D-5CFC-4060-95D9-13E172FE9A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55A26E7D-5CFC-4060-95D9-13E172FE9A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55A26E7D-5CFC-4060-95D9-13E172FE9A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09798D50-4AC8-40FF-A9BA-614089D99566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09798D50-4AC8-40FF-A9BA-614089D99566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09798D50-4AC8-40FF-A9BA-614089D99566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09798D50-4AC8-40FF-A9BA-614089D99566}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

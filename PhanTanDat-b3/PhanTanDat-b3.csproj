@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{55A26E7D-5CFC-4060-95D9-13E172FE9A64}</ProjectGuid>
+    <ProjectGuid>{09798D50-4AC8-40FF-A9BA-614089D99566}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PhanTanDat_b2</RootNamespace>
-    <AssemblyName>PhanTanDat-b2</AssemblyName>
+    <RootNamespace>PhanTanDat_b3</RootNamespace>
+    <AssemblyName>PhanTanDat-b3</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
